@@ -1,12 +1,18 @@
 # DSGM 2024 Data Science for Global Manager
 
 This is a **test**.
+
 This is another *test*.
+
 This is a different <ins>test</ins>
+
 This is not a ~~test~~
-<sub> test </sub>
-<sup> TEST </sup>
-> Small test
+
+<sub> small test </sub>
+
+<sup> BIG TEST </sup>
+
+> Test quotes
 
 
 # Introduction
