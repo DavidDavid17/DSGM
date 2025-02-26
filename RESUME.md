@@ -1,4 +1,4 @@
-# David's Resume
+# **David's Resume**
 
 ## Education
 
@@ -14,13 +14,17 @@ Global MBA
 
 ### Fund Manager (2022 - Present)
 
-    * Analyze Market Condition
+* Analyze Market Condition
 
 ### Business Development Manager (2020 - 2021)
 
-    * Responsible for developing businesses
+*  Responsible for developing businesses
 
-### Skills
+## Skills
 
-    * R Programming
-    * Eviews
+* R Programming
+* Python
+* Excel
+* Eviews
+* Fluent in English and Mandarin
+* Strong interpersonal skills
