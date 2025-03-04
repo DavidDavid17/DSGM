@@ -1,4 +1,7 @@
+![Image Alt Text](https://github.com/DavidDavid17/DSGM/blob/main/David.png?raw=true) 
+
 # **David's Resume**
+
 
 ## Education
 
