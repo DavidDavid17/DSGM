@@ -30,4 +30,4 @@ Global MBA
 * Excel
 * Eviews
 * Fluent in English and Mandarin
-* Strong interpersonal skills
+* Strong interpersonal skills #https://allendowney.github.io/ThinkPython/
